@@ -5,3 +5,9 @@ while row_count < size:
         print("*"), end="")
     print()
 row_count += 1
+
+Enter the size of the pattern: 4
+****
+****
+****
+****
